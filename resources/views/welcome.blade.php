@@ -129,7 +129,7 @@
               <div class="slide-1"></div>
                 <div class="hero ">
                   <hgroup class="wow fadeInUp">
-                      <h1>We Help <span ><a href="" class="typewrite" data-period="2000" data-type='[ " Business", " Startup"]'>
+                      <h1>Fejicom <span ><a href="" class="typewrite" data-period="2000" data-type='[ " LAUNDRY", " CATERING", "HIRING"]'>
                         <span class="wrap"></span></a></span> </h1>
                       <h3>The next big idea is waiting for its next big changer</h3>
                   </hgroup>
@@ -147,34 +147,41 @@
       <div class="container">
         <div class="row title-bar">
           <div class="col-md-12">
-            <h1 class="wow fadeInUp">We committed to helping</h1>
+            <h1 class="wow fadeInUp">Our Vision</h1>
             <div class="heading-border"></div>
-            <p class="wow fadeInUp" data-wow-delay="0.4s">Businessbox will deliver value to all the stakeholders and will attain excellence and leadership through such delivery of value. We will strive to support the stakeholders in all activities related to us. Businessbox provide great things.</p>
-            <div class="title-but"><button class="btn btn-general btn-green" role="button">Read More</button></div>
+            <p class="wow fadeInUp" data-wow-delay="0.4s">Fejicom Nig Ltd is on a celebrated journey of excellent delivery in the areas of...</p>
+            <div class="title-but"><button class="btn btn-general btn-green" role="button">About Us</button></div>
           </div>
         </div>
       </div>
       <!-- About right side withBG parallax -->
       <div class="container-fluid">
         <div class="row">
-          <div class="col-md-4 bg-starship">
+          <div class="col-md-3 bg-starship">
             <div class="about-content-box wow fadeInUp" data-wow-delay="0.3s">
               <i class="fa fa-snowflake-o"></i>
-              <h5>Thoughts Leadership Platform</h5>
+              <h5>Leadership</h5>
               <p class="desc">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
             </div>
           </div>
-          <div class="col-md-4 bg-chathams">
+          <div class="col-md-3 bg-chathams">
             <div class="about-content-box wow fadeInUp" data-wow-delay="0.5s">
               <i class="fa fa-circle-o-notch"></i>
-              <h5>Corporate world Platform</h5>
+              <h5>Business Development</h5>
               <p class="desc">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
             </div>
           </div>
-          <div class="col-md-4 bg-matisse">
+          <div class="col-md-3 bg-matisse">
             <div class="about-content-box wow fadeInUp" data-wow-delay="0.7s">
               <i class="fa fa-hourglass-o"></i>
-              <h5>End to End Testing Platform</h5>
+              <h5>Job creation</h5>
+              <p class="desc">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
+            </div>
+          </div>
+          <div class="col-md-3 bg-matisse">
+            <div class="about-content-box wow fadeInUp" data-wow-delay="0.7s">
+              <i class="fa fa-hourglass-o"></i>
+              <h5>Business Management</h5>
               <p class="desc">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
             </div>
           </div>
@@ -202,7 +209,7 @@
                   </div>
                   <img src="img/news/news-11.jpg" class="img-fluid" alt="...">
               </div>
-              <h3>Business Management</h3>
+              <h3>Value Delivery</h3>
               <p class="desc">Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC. </p>
               <a href="#"><i class="fa fa-arrow-circle-o-right"></i> Learn More</a>
             </div>
@@ -215,7 +222,7 @@
                   </div>
                   <img src="img/news/news-13.jpg" class="img-fluid" alt="...">
               </div>
-              <h3>Leadership Development</h3>
+              <h3>Quality ;amp Excellence</h3>
               <p class="desc">Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC. </p>
               <a href="#"><i class="fa fa-arrow-circle-o-right"></i> Learn More</a>
             </div>
@@ -228,7 +235,7 @@
                   </div>
                   <img src="img/news/news-14.jpg" class="img-fluid" alt="...">
               </div>
-              <h3>Social benefits and services</h3>
+              <h3>Consistency</h3>
               <p class="desc">Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC. </p>
               <a href="#"><i class="fa fa-arrow-circle-o-right"></i> Learn More</a>
             </div>
