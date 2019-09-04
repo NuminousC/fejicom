@@ -13,3 +13,4 @@
 
 Route::view('/', 'pages.welcome')->name('welcome');
 Route::view('about', 'pages.about')->name('about');
+Route::view('contact', 'pages.contact')->name('contact');

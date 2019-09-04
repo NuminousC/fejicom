@@ -57,7 +57,7 @@
                   <a class="dropdown-item" href="team.html">Catering</a>
                 </div>
               </li>
-              <li class="nav-item" ><a class="nav-link smooth-scroll" href="index.html">Contact</a></li>
+              <li class="nav-item" ><a class="nav-link smooth-scroll" href="{{ route('contact') }}">Contact</a></li>
               <li>
                 <div class="top-menubar-nav">
                   <div class="topmenu ">
