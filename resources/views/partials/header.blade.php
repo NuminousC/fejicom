@@ -35,7 +35,8 @@
     <nav class="navbar navbar-expand-lg navbar-light" id="mainNav" data-toggle="affix">
       <div class="container">
         <a class="navbar-brand smooth-scroll" href="index.html">
-          <img src="img/logo-s.png" alt="logo">
+          <!-- <img src="img/logo-s.png" alt="logo"> -->
+          <h2>FEJICOM</h2>
         </a>
         <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
               <span class="navbar-toggler-icon"></span>

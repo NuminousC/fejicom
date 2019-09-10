@@ -110,7 +110,7 @@
                   </div>
                   <img src="img/news/news-13.jpg" class="img-fluid" alt="...">
               </div>
-              <h3>Quality ;amp Excellence</h3>
+              <h3>Quality &amp; Excellence</h3>
               <p class="desc">Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC. </p>
               <a href="#"><i class="fa fa-arrow-circle-o-right"></i> Learn More</a>
             </div>
@@ -148,8 +148,8 @@
               <div class="col-md-4  col-sm-6">
                 <div class="what-we-desc">
                   <i class="fa fa-briefcase"></i>
-                  <h6>Workspace</h6>
-                  <p class="desc">Contrary to popular belief, Lorem Ipsum is not simply random text. </p>
+                  <h6>Laundry / Housekeeping</h6>
+                  <p class="desc">We provide laundry services and we also help you take care of your home even offshore. </p>
                 </div>
               </div>
               <div class="col-md-4  col-sm-6">
@@ -162,8 +162,8 @@
               <div class="col-md-4  col-sm-6">
                 <div class="what-we-desc">
                   <i class="fa fa-building-o"></i>
-                  <h6>Apartments</h6>
-                  <p class="desc">Contrary to popular belief, Lorem Ipsum is not simply random text. </p>
+                  <h6>Hiring</h6>
+                  <p class="desc">We can help you rent apartments, cars, boats, barge and generators. </p>
                 </div>
               </div>
               <div class="col-md-4  col-sm-6">
@@ -183,8 +183,8 @@
               <div class="col-md-4  col-sm-6">
                 <div class="what-we-desc">
                   <i class="fa fa-cutlery"></i>
-                  <h6>Restaurant</h6>
-                  <p class="desc">Contrary to popular belief, Lorem Ipsum is not simply random text. </p>
+                  <h6>Catering</h6>
+                  <p class="desc">We make your food, take it where you want or bring it to you. </p>
                 </div>
               </div>
             </div>
@@ -200,7 +200,7 @@
         <div class="container">
           <div class="row title-bar">
             <div class="col-md-12">
-              <h1 class="wow fadeInUp">Our Success Tranformation Story</h1>
+              <h1 class="wow fadeInUp">Our Mission</h1>
               <div class="heading-border"></div>
             </div>
           </div>
@@ -214,11 +214,11 @@
             </div>
             <div class="col-md-6">
               <div class="story-desc">
-                <h3>How to grow world with Us</h3>
+                <h3>Constantly pushing for excellence</h3>
                 <div class="heading-border-light"></div>
-                <p>Everyone defines success differently – as much as there are people, there are different opinions. Number one in our priority list is the success of our students, alumni and their employers. We work hard in the name of the success of our alumni – being among the best and holding the high employment rate. Many desktop publishing packages and web page editors now use Lorem Ipsum.. </p>
-                <p>You can find some thoughts on success from our students and alumni here – every story is unique, but this is what success is. Everybody sees it differently. Many desktop publishing packages and web page editors now use Lorem Ipsum.</p>
-                <p class="text-right" style="font-style: italic; font-weight: 700;"><a href="#">Businessbox</a></p>
+                <p>At <span class="text-right" style="font-style: italic; font-weight: 700;"><a href="#">fejicom</a></span> excellence is our watch word. Excellence is the furnace with which we refine our services. We put in effort to satisfy our customers on every occasion. </p>
+                <!-- <p>You can find some thoughts on success from our students and alumni here – every story is unique, but this is what success is. Everybody sees it differently. Many desktop publishing packages and web page editors now use Lorem Ipsum.</p> -->
+                <p class="text-right" style="font-style: italic; font-weight: 700;"><a href="#">FEJICOM</a></p>
                 <div class="title-but"><button class="btn btn-general btn-green" role="button">Read More</button></div>
               </div>
             </div>
