@@ -5,436 +5,723 @@
 
 @section('content')
 
-  <!--====================================================
-                         HOME
-======================================================-->
-<section id="home">
-      <div id="carousel" class="carousel slide carousel-fade" data-ride="carousel">
-        <!-- Carousel items -->
-        <div class="carousel-inner">
-            <div class="carousel-item active slides">
-              <div class="overlay"></div>
-              <div class="slide-1"></div>
-                <div class="hero ">
-                  <hgroup class="wow fadeInUp">
-                      <h1>Fejicom <span ><a href="" class="typewrite" data-period="2000" data-type='[ " LAUNDRY", " CATERING", "HIRING"]'>
-                        <span class="wrap"></span></a></span> </h1>
-                      <h3>The next big idea is waiting for its next big changer</h3>
-                  </hgroup>
-                  <button class="btn btn-general btn-green wow fadeInUp" role="button">Contact Now</button>
-                </div>
-            </div>
-        </div>
-      </div>
-    </section>
+<!-- About Us -->
+<section class="about" id="about">
+		<div class="container section-wrapper">
+			<h2 class="section-title black">
+				about us
+			</h2> <!-- /.section-title -->
+			<div class="underline purple"></div>	
+			<div class="row">
+				<div class="col-md-3 col-sm-6">
+					<img src="assets/images/about-1.png" alt="about" class="about-img">
+				</div> <!-- /.col-md-3 -->
+				<div class="col-md-3 col-sm-6">
+					<img src="assets/images/about-2.png" alt="about" class="about-img">
+				</div> <!-- /.col-md-3 -->
 
-<!--====================================================
-                        ABOUT
-======================================================-->
-    <section id="about" class="about">
-      <div class="container">
-        <div class="row title-bar">
-          <div class="col-md-12">
-            <h1 class="wow fadeInUp">Our Vision</h1>
-            <div class="heading-border"></div>
-            <p class="wow fadeInUp" data-wow-delay="0.4s">Fejicom Nig Ltd is on a celebrated journey of excellent delivery in the areas of...</p>
-            <div class="title-but"><button class="btn btn-general btn-green" role="button">About Us</button></div>
-          </div>
-        </div>
-      </div>
-      <!-- About right side withBG parallax -->
-      <div class="container-fluid">
-        <div class="row">
-          <div class="col-md-3 bg-starship">
-            <div class="about-content-box wow fadeInUp" data-wow-delay="0.3s">
-              <i class="fa fa-snowflake-o"></i>
-              <h5>Leadership</h5>
-              <p class="desc">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
-            </div>
-          </div>
-          <div class="col-md-3 bg-chathams">
-            <div class="about-content-box wow fadeInUp" data-wow-delay="0.5s">
-              <i class="fa fa-circle-o-notch"></i>
-              <h5>Business Development</h5>
-              <p class="desc">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
-            </div>
-          </div>
-          <div class="col-md-3 bg-matisse">
-            <div class="about-content-box wow fadeInUp" data-wow-delay="0.7s">
-              <i class="fa fa-hourglass-o"></i>
-              <h5>Job creation</h5>
-              <p class="desc">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
-            </div>
-          </div>
-          <div class="col-md-3 bg-matisse">
-            <div class="about-content-box wow fadeInUp" data-wow-delay="0.7s">
-              <i class="fa fa-hourglass-o"></i>
-              <h5>Business Management</h5>
-              <p class="desc">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
+				<div class="col-md-6 col-sm-12">
+					<p class="about-detail">
+						The Earth was small, light blue, and so touchingly alone, our home that must be defended like a holy relic. The Earth was absolutely round. I believe I never knew what  saw for the first time how beautiful our planet is. Mankind, let us preserve and increase this beauty, and not destroy it!Houston.landed.We are all connected; To each other, biologically. To the earth, chemically. To the rest of the universe atomically. The Earth was absolutely round. I believe I never knew what  saw for the first time how beautiful our planet is. 
+					</p> <!-- /.about-detail -->
+				</div> <!-- /.col-md-6 -->
 
-<!--====================================================
-                        OFFER
-======================================================-->
-    <section id="comp-offer">
-      <div class="container-fluid">
-        <div class="row">
-          <div class="col-md-3 col-sm-6 desc-comp-offer wow fadeInUp" data-wow-delay="0.2s">
-            <h2>What We Offer</h2>
-            <div class="heading-border-light"></div>
-            <button class="btn btn-general btn-green" role="button">See Curren Offers</button>
-            <button class="btn btn-general btn-white" role="button">Contact Us Today</button>
-          </div>
-          <div class="col-md-3 col-sm-6 desc-comp-offer wow fadeInUp" data-wow-delay="0.4s">
-            <div class="desc-comp-offer-cont">
-              <div class="thumbnail-blogs">
-                  <div class="caption">
-                    <i class="fa fa-chain"></i>
-                  </div>
-                  <img src="img/news/news-11.jpg" class="img-fluid" alt="...">
-              </div>
-              <h3>Value Delivery</h3>
-              <p class="desc">Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC. </p>
-              <a href="#"><i class="fa fa-arrow-circle-o-right"></i> Learn More</a>
-            </div>
-          </div>
-          <div class="col-md-3 col-sm-6 desc-comp-offer wow fadeInUp" data-wow-delay="0.6s">
-            <div class="desc-comp-offer-cont">
-              <div class="thumbnail-blogs">
-                  <div class="caption">
-                    <i class="fa fa-chain"></i>
-                  </div>
-                  <img src="img/news/news-13.jpg" class="img-fluid" alt="...">
-              </div>
-              <h3>Quality &amp; Excellence</h3>
-              <p class="desc">Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC. </p>
-              <a href="#"><i class="fa fa-arrow-circle-o-right"></i> Learn More</a>
-            </div>
-          </div>
-          <div class="col-md-3 col-sm-6 desc-comp-offer wow fadeInUp" data-wow-delay="0.8s">
-            <div class="desc-comp-offer-cont">
-              <div class="thumbnail-blogs">
-                  <div class="caption">
-                    <i class="fa fa-chain"></i>
-                  </div>
-                  <img src="img/news/news-14.jpg" class="img-fluid" alt="...">
-              </div>
-              <h3>Consistency</h3>
-              <p class="desc">Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC. </p>
-              <a href="#"><i class="fa fa-arrow-circle-o-right"></i> Learn More</a>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
+			</div> <!-- /.row -->
 
-<!--====================================================
-                     WHAT WE DO
-======================================================-->
-    <section class="what-we-do bg-gradiant">
-      <div class="container-fluid">
-        <div class="row">
-          <div class="col-md-3">
-            <h3>What we Do</h3>
-            <div class="heading-border-light"></div>
-            <p class="desc">We partner with clients to put recommendations into practice. </p>
-          </div>
-          <div class="col-md-9">
-            <div class="row">
-              <div class="col-md-4  col-sm-6">
-                <div class="what-we-desc">
-                  <i class="fa fa-briefcase"></i>
-                  <h6>Laundry / Housekeeping</h6>
-                  <p class="desc">We provide laundry services and we also help you take care of your home even offshore. </p>
-                </div>
-              </div>
-              <div class="col-md-4  col-sm-6">
-                <div class="what-we-desc">
-                  <i class="fa fa-shopping-bag"></i>
-                  <h6>Storefront</h6>
-                  <p class="desc">Contrary to popular belief, Lorem Ipsum is not simply random text. </p>
-                </div>
-              </div>
-              <div class="col-md-4  col-sm-6">
-                <div class="what-we-desc">
-                  <i class="fa fa-building-o"></i>
-                  <h6>Hiring</h6>
-                  <p class="desc">We can help you rent apartments, cars, boats, barge and generators. </p>
-                </div>
-              </div>
-              <div class="col-md-4  col-sm-6">
-                <div class="what-we-desc">
-                  <i class="fa fa-bed"></i>
-                  <h6>Hotels</h6>
-                  <p class="desc">Contrary to popular belief, Lorem Ipsum is not simply random text. </p>
-                </div>
-              </div>
-              <div class="col-md-4  col-sm-6">
-                <div class="what-we-desc">
-                  <i class="fa fa-hourglass-2"></i>
-                  <h6>Concept</h6>
-                  <p class="desc">Contrary to popular belief, Lorem Ipsum is not simply random text. </p>
-                </div>
-              </div>
-              <div class="col-md-4  col-sm-6">
-                <div class="what-we-desc">
-                  <i class="fa fa-cutlery"></i>
-                  <h6>Catering</h6>
-                  <p class="desc">We make your food, take it where you want or bring it to you. </p>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
+			<div class="row">
+			
+				<div class="col-sm-4">
+					<h3 class="section-item-title">
+						we care
+					</h3>
+					<p class="section-item-detail">
+						The Earth was small, light blue, and so touchingly alone, our home that must be defended like a holy relic. The Earth was absolutely round.
+					</p>
+				</div>
+				<div class="col-sm-4">
+					<h3 class="section-item-title">
+						we deliver
+					</h3>
+					<p class="section-item-detail">
+						The Earth was small, light blue, and so touchingly alone, our home that must be defended like a holy relic. The Earth was absolutely round.
+					</p>
+				</div>
+				<div class="col-sm-4">
+					<h3 class="section-item-title">
+						we're creative
+					</h3>
+					<p class="section-item-detail">
+						The Earth was small, light blue, and so touchingly alone, our home that must be defended like a holy relic. The Earth was absolutely round.
+					</p>
+				</div>	
+			</div> <!-- /.row -->
 
-<!--====================================================
-                      STORY
-======================================================-->
-    <section id="story">
-        <div class="container">
-          <div class="row title-bar">
-            <div class="col-md-12">
-              <h1 class="wow fadeInUp">Our Mission</h1>
-              <div class="heading-border"></div>
-            </div>
-          </div>
-        </div>
-        <div class="container-fluid">
-          <div class="row" >
-            <div class="col-md-6" >
-              <div class="story-himg" >
-                <img src="img/image-4.jpg" class="img-fluid" alt="">
-              </div>
-            </div>
-            <div class="col-md-6">
-              <div class="story-desc">
-                <h3>Constantly pushing for excellence</h3>
-                <div class="heading-border-light"></div>
-                <p>At <span class="text-right" style="font-style: italic; font-weight: 700;"><a href="#">fejicom</a></span> excellence is our watch word. Excellence is the furnace with which we refine our services. We put in effort to satisfy our customers on every occasion. </p>
-                <!-- <p>You can find some thoughts on success from our students and alumni here – every story is unique, but this is what success is. Everybody sees it differently. Many desktop publishing packages and web page editors now use Lorem Ipsum.</p> -->
-                <p class="text-right" style="font-style: italic; font-weight: 700;"><a href="#">FEJICOM</a></p>
-                <div class="title-but"><button class="btn btn-general btn-green" role="button">Read More</button></div>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="container">
-          <div class="row">
-            <div class="col-md-4 col-sm-6 wow fadeInUp" data-wow-delay="0.1s">
-              <div class="story-descb">
-                  <img src="img/news/news-10.jpg" class="img-fluid" alt="...">
-                  <h6>Virtual training systems</h6>
-                  <p>Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
-                  <a href="#"><i class="fa fa-arrow-circle-o-right"></i> Read More</a>
-              </div>
-            </div>
-            <div class="col-md-4 col-sm-6 wow fadeInUp" data-wow-delay="0.3s">
-              <div class="story-descb">
-                  <img src="img/news/news-2.jpg" class="img-fluid" alt="...">
-                  <h6>Design planning</h6>
-                  <p>Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
-                  <a href=""><i class="fa fa-arrow-circle-o-right"></i> Read More</a>
-              </div>
-            </div>
-            <div class="col-md-4 col-sm-6 wow fadeInUp" data-wow-delay="0.5s">
-              <div class="story-descb">
-                  <img src="img/news/news-8.jpg" class="img-fluid" alt="...">
-                  <h6>Remote condition monitoring</h6>
-                  <p>Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
-                  <a href=""><i class="fa fa-arrow-circle-o-right"></i> Read More</a>
-              </div>
-            </div>
-          </div>
-        </div>
-    </section>
+		</div> <!-- /.container -->
+	</section> <!-- /.about -->
 
-<!--====================================================
-                  COMPANY THOUGHT
-======================================================-->
-    <div class="overlay-thought"></div>
-    <section id="thought" class="bg-parallax thought-bg">
-      <div class="container">
-        <div id="thought-desc" class="row title-bar title-bar-thought owl-carousel owl-theme">
-          <div class="col-md-12 ">
-            <div class="heading-border bg-white"></div>
-            <p class="wow fadeInUp" data-wow-delay="0.4s">Businessbox will deliver value to all the stakeholders and will attain excellence and leadership through such delivery of value. We will strive to support the stakeholders in all activities related to us. Businessbox provide great things.</p>
-            <h6>John doe</h6>
-          </div>
-          <div class="col-md-12 thought-desc">
-            <div class="heading-border bg-white"></div>
-            <p class="wow fadeInUp" data-wow-delay="0.4s">Ensuring quality in Businessbox is an obsession and the high quality standards set by us are achieved through a rigorous quality assurance process. Quality assurance is performed by an independent team of trained experts for each project. </p>
-            <h6>Tom John</h6>
-          </div>
-        </div>
-      </div>
-    </section>
 
-<!--====================================================
-                   SERVICE-HOME
-======================================================-->
-    <section id="service-h">
-        <div class="container-fluid">
-          <div class="row" >
-            <div class="col-md-6" >
-              <div class="service-himg" >
-                <iframe src="https://www.youtube.com/embed/754f1w90gQU?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
-              </div>
-            </div>
-            <div class="col-md-6 wow fadeInUp" data-wow-delay="0.3s">
-              <div class="service-h-desc">
-                <h3>We are Providing great Services</h3>
-                <div class="heading-border-light"></div>
-                <p>Businessbox offer the full spectrum of services to help organizations work better. Everything from creating standards of excellence to training your people to work in more effective ways.</p>
-              <div class="service-h-tab">
-                <nav class="nav nav-tabs" id="myTab" role="tablist">
-                  <a class="nav-item nav-link active" id="nav-home-tab" data-toggle="tab" href="#nav-home" role="tab" aria-controls="nav-home" aria-expanded="true">Developing</a>
-                  <a class="nav-item nav-link" id="nav-profile-tab" data-toggle="tab" href="#nav-profile" role="tab" aria-controls="nav-profile">Training</a>
-                  <a class="nav-item nav-link" id="my-profile-tab" data-toggle="tab" href="#my-profile" role="tab" aria-controls="my-profile">Medical</a>
-                </nav>
-                <div class="tab-content" id="nav-tabContent">
-                  <div class="tab-pane fade show active" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab"><p>Nulla est ullamco ut irure incididunt nulla Lorem Lorem minim irure officia enim reprehenderit. Magna duis labore cillum sint adipisicing exercitation ipsum. Nostrud ut anim non exercitation velit laboris fugiat cupidatat. Commodo esse dolore fugiat sint velit ullamco magna consequat voluptate minim amet aliquip ipsum aute. exercitation ipsum. Nostrud ut anim non exercitation velit laboris fugiat cupidatat. Commodo esse dolore fugiat sint velit ullamco magna consequat voluptate minim amet aliquip ipsum aute. </p></div>
-                  <div class="tab-pane fade" id="nav-profile" role="tabpanel" aria-labelledby="nav-profile-tab">
-                    <p>Nulla est ullamco ut irure incididunt nulla Lorem Lorem minim irure officia enim reprehenderit. Magna duis labore cillum sint adipisicing exercitation ipsum. Nostrud ut anim non exercitation velit laboris fugiat cupidatat. Commodo esse dolore fugiat sint velit ullamco magna consequat voluptate minim amet aliquip ipsum aute</p>
-                  </div>
-                  <div class="tab-pane fade" id="my-profile" role="tabpanel" aria-labelledby="my-profile-tab">
-                    <p>Nulla est ullamco ut irure incididunt nulla Lorem Lorem minim irure officia enim reprehenderit. Magna duis labore cillum sint adipisicing exercitation ipsum. Nostrud ut anim non exercitation velit laboris fugiat cupidatat. Commodo esse dolore fugiat sint velit ullamco magna consequat voluptate minim amet aliquip ipsum aute</p>
-                  </div>
-                </div>
-              </div>
-              </div>
-            </div>
-          </div>
-        </div>
-    </section>
+<!-- Our Team -->
+	<section class="team">
+		<div class="container section-wrapper">
+			<h2 class="section-title black">
+				our team
+			</h2> <!-- /.section-title -->
+			<div class="underline purple"></div>
+			<div class="row">
+				<div class="col-sm-3 col-xs-6">
+					<div class="team-item">
+						<img src="assets/images/team-1.png" alt="team-image" class="team-img">
+						<h4 class="team-item-name">
+							David Martin
+						</h4>
+						<p class="team-item-id">
+							founder
+						</p>
+					</div> <!-- /.team-item -->
+				</div> <!-- /.col-md-3 -->
 
-<!--====================================================
-                      CLIENT
-======================================================-->
-    <section id="client" class="client">
-      <div class="container">
-        <div class="row title-bar">
-          <div class="col-md-12">
-            <h1 class="wow fadeInUp">Our Client Say</h1>
-            <div class="heading-border"></div>
-            <p class="wow fadeInUp" data-wow-delay="0.4s">We committed to helping you maintain your Brand Value.</p>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-md-6 col-sm-12">
-            <div class="client-cont wow fadeInUp" data-wow-delay="0.1s">
-              <img src="img/client/avatar-6.jpg" class="img-fluid" alt="">
-              <h5>Leesa len</h5>
-              <h6>DSS CEO & Cofounder</h6>
-              <i class="fa fa-quote-left"></i>
-              <p>The Businessbox service - it helps fill our Business, and increase our show up rate every single time.</p>
-            </div>
-          </div>
-          <div class="col-md-6 col-sm-12">
-            <div class="client-cont wow fadeInUp" data-wow-delay="0.3s">
-              <img src="img/client/avatar-2.jpg" class="img-fluid" alt="">
-              <h5>Dec Bol</h5>
-              <h6>TEMS founder</h6>
-              <i class="fa fa-quote-left"></i>
-              <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece.</p>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
+				<div class="col-sm-3 col-xs-6">
+					<div class="team-item">
+						<img src="assets/images/team-2.png" alt="team-image" class="team-img">
+						<h4 class="team-item-name">
+							Reena Scot
+						</h4>
+						<p class="team-item-id">
+							founder
+						</p>
+					</div> <!-- /.team-item -->
+				</div> <!-- /.col-md-3 -->
+				<div class="col-sm-3 col-xs-6">
+					<div class="team-item">
+						<img src="assets/images/team-3.png" alt="team-image" class="team-img">
+						<h4 class="team-item-name">
+							Paul Smith
+						</h4>
+						<p class="team-item-id">
+							founder
+						</p>
+					</div> <!-- /.team-item -->
+				</div> <!-- /.col-md-3 -->
+				<div class="col-sm-3 col-xs-6">
+					<div class="team-item">
+						<img src="assets/images/team-4.png" alt="team-image" class="team-img">
+						<h4 class="team-item-name">
+							Jeneflr White
+						</h4>
+						<p class="team-item-id">
+							founder
+						</p>
+					</div> <!-- /.team-item -->
+				</div> <!-- /.col-md-3 -->
+				<div class="col-sm-3 col-xs-6">
+					<div class="team-item">
+						<img src="assets/images/team-5.png" alt="team-image" class="team-img">
+						<h4 class="team-item-name">
+							David Martin
+						</h4>
+						<p class="team-item-id">
+							founder
+						</p>
+					</div> <!-- /.team-item -->
+				</div> <!-- /.col-md-3 -->
+				<div class="col-sm-3 col-xs-6">
+					<div class="team-item">
+						<img src="assets/images/team-6.png" alt="team-image" class="team-img">
+						<h4 class="team-item-name">
+							Reena Scot
+						</h4>
+						<p class="team-item-id">
+							founder
+						</p>
+					</div> <!-- /.team-item -->
+				</div> <!-- /.col-md-3 -->
+				<div class="col-sm-3 col-xs-6">
+					<div class="team-item">
+						<img src="assets/images/team-7.png" alt="team-image" class="team-img">
+						<h4 class="team-item-name">
+							Paul Smith
+						</h4>
+						<p class="team-item-id">
+							founder
+						</p>
+					</div> <!-- /.team-item -->
+				</div> <!-- /.col-md-3 -->
+				<div class="col-sm-3 col-xs-6">
+					<div class="team-item">
+						<img src="assets/images/team-8.png" alt="team-image" class="team-img">
+						<h4 class="team-item-name">
+							Jeneflr White
+						</h4>
+						<p class="team-item-id">
+							founder
+						</p>
+					</div> <!-- /.team-item -->
+				</div> <!-- /.col-md-3 -->
+				
+			</div> <!-- /.row -->
+		</div> <!-- /.container -->
+	</section> <!-- /.team -->
 
-<!--====================================================
-                    CONTACT HOME
-======================================================-->
-    <div class="overlay-contact-h"></div>
-    <section id="contact-h" class="bg-parallax contact-h-bg">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-6">
-            <div class="contact-h-cont">
-              <h3 class="cl-white">Continue The Conversation</h3><br>
-              <form>
-                <div class="form-group cl-white">
-                  <label for="name">Your Name</label>
-                  <input type="text" class="form-control" id="name" aria-describedby="nameHelp" placeholder="Enter name">
-                </div>
-                <div class="form-group cl-white">
-                  <label for="exampleInputEmail1">Email address</label>
-                  <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
-                </div>
-                <div class="form-group cl-white">
-                  <label for="subject">Subject</label>
-                  <input type="text" class="form-control" id="subject" aria-describedby="subjectHelp" placeholder="Enter subject">
-                </div>
-                <div class="form-group cl-white">
-                  <label for="message">Message</label>
-                  <textarea class="form-control" id="message" rows="3"></textarea>
-                </div>
-                <button class="btn btn-general btn-white" role="button"><i fa fa-right-arrow></i>GET CONVERSATION</button>
-              </form>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
 
-<!--====================================================
-                       NEWS
-======================================================-->
-    <section id="comp-offer">
-      <div class="container-fluid">
-        <div class="row">
-          <div class="col-md-3 col-sm-6  desc-comp-offer wow fadeInUp" data-wow-delay="0.2s">
-            <h2>Latest News</h2>
-            <div class="heading-border-light"></div>
-            <button class="btn btn-general btn-green" role="button">See More</button>
-          </div>
-          <div class="col-md-3 col-sm-6 desc-comp-offer wow fadeInUp" data-wow-delay="0.4s">
-            <div class="desc-comp-offer-cont">
-              <div class="thumbnail-blogs">
-                  <div class="caption">
-                    <i class="fa fa-chain"></i>
-                  </div>
-                  <img src="img/news/news-1.jpg" class="img-fluid" alt="...">
-              </div>
-              <h3>Pricing Strategies for Product</h3>
-              <p class="desc">Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from Business box. </p>
-              <a href="#"><i class="fa fa-arrow-circle-o-right"></i> Learn More</a>
-            </div>
-          </div>
-          <div class="col-md-3 col-sm-6 desc-comp-offer wow fadeInUp" data-wow-delay="0.6s">
-            <div class="desc-comp-offer-cont">
-              <div class="thumbnail-blogs">
-                  <div class="caption">
-                    <i class="fa fa-chain"></i>
-                  </div>
-                  <img src="img/news/news-9.jpg" class="img-fluid" alt="...">
-              </div>
-              <h3>Design Exhibitions of 2017</h3>
-              <p class="desc">Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from Business box. </p>
-              <a href="#"><i class="fa fa-arrow-circle-o-right"></i> Learn More</a>
-            </div>
-          </div>
-          <div class="col-md-3 col-sm-6 desc-comp-offer wow fadeInUp" data-wow-delay="0.8s">
-            <div class="desc-comp-offer-cont">
-              <div class="thumbnail-blogs">
-                  <div class="caption">
-                    <i class="fa fa-chain"></i>
-                  </div>
-                  <img src="img/news/news-12.jpeg" class="img-fluid" alt="...">
-              </div>
-              <h3>Exciting New Technologies</h3>
-              <p class="desc">Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from Business box. </p>
-              <a href="#"><i class="fa fa-arrow-circle-o-right"></i> Learn More</a>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
+<!-- Note -->
+	<section class="note purple">
+		<div class="container section-wrapper text-center">
+			<p class="quote">
+				“When you’re a carpenter making a beautiful chest of drawers, you’re not going to use a piece of plywood on the back, even though it faces the wall and nobody will see it. You’ll know it’s there, so you’re going to use a beautiful piece of wood on the back. For you to sleep well at night, the aesthetic, the quality, has to be carried all the way through.”
+			</p> <!-- /.quote -->
+			<div class="quoter">Steve Jobs</div>
+		</div> <!-- /.container -->
+	</section> <!-- /.note -->
+	
+
+<!-- Fan Facts -->
+	<section class="fun">
+		<div class="container section-wrapper">
+		<h2 class="section-title black">
+				Fun Facts
+			</h2> <!-- /.section-title -->
+			<div class="underline purple"></div>	
+			<div class="row">
+				<div class="col-sm-3 col-xs-6">
+					<div class="fun-box">
+						<div class="number">
+							1956628
+						</div>
+						<div class="number-title">
+							lines of code
+						</div>
+					</div> <!-- /.fun-box -->
+				</div> <!-- /.col-md-3 -->
+				<div class="col-sm-3 col-xs-6">
+					<div class="fun-box">
+						<div class="number">
+							1473
+						</div>
+						<div class="number-title">
+							cups of coffee
+						</div>
+					</div> <!-- /.fun-box -->
+				</div> <!-- /.col-md-3 -->
+				<div class="col-sm-3 col-xs-6">
+					<div class="fun-box">
+						<div class="number">
+							500
+						</div>
+						<div class="number-title">
+							projects delivered
+						</div>
+					</div> <!-- /.fun-box -->
+				</div> <!-- /.col-md-3 -->
+				<div class="col-sm-3 col-xs-6">
+					<div class="fun-box">
+						<div class="number">
+							101
+						</div>
+						<div class="number-title">
+							satisfied clients
+						</div>
+					</div> <!-- /.fun-box -->
+				</div> <!-- /.col-md-3 -->
+			</div> <!-- /.row -->
+		</div> <!-- /.container -->
+	</section> <!-- /.fun -->
+
+
+<!-- Our Services -->
+	<section class="service" id="service">
+		<div class="container">
+			<div class="_section-wrapper">
+				<h2 class="section-title black">
+					our services
+				</h2> <!-- /.section-title -->
+				<div class="underline purple"></div>
+				<div class="row">
+					<div class="">
+						<img src="assets/images/service.png" alt="service" class="service-img img-responsive">
+					</div>
+					<div class="col-md-offset-4 col-md-8 col-sm-12 services">
+						<div class="row">
+							<div class="col-xs-6 col-sm-4">
+								<div class="service-item">
+									<h3 class="section-item-title">
+										free delivery
+									</h3>
+									<p class="section-item-detail">
+										The Earth was small, light blue, and so touchingly alone, our home that must be so painful.
+									</p>
+								</div> <!-- /.service-item -->
+							</div>
+							<div class="col-xs-6 col-sm-4">
+								<div class="service-item">
+									<h3 class="section-item-title">
+										refund money
+									</h3>
+									<p class="section-item-detail">
+										The Earth was small, light blue, and so touchingly alone, our home that must be so painful.
+									</p>
+								</div> <!-- /.service-item -->
+							</div>
+							<div class="col-xs-6 col-sm-4">
+								<div class="service-item">
+									<h3 class="section-item-title">
+										24/7 support
+									</h3>
+									<p class="section-item-detail">
+										The Earth was small, light blue, and so touchingly alone, our home that must be so painful.
+									</p>
+								</div> <!-- /.service-item -->
+							</div>
+							<div class="col-xs-6 col-sm-4">
+								<div class="service-item">
+									<h3 class="section-item-title">
+										summer offer
+									</h3>
+									<p class="section-item-detail">
+										The Earth was small, light blue, and so touchingly alone, our home that must be so painful.
+									</p>
+								</div> <!-- /.service-item -->
+							</div>
+							<div class="col-xs-6 col-sm-4">
+								<div class="service-item">
+									<h3 class="section-item-title">
+										winter offer
+									</h3>
+									<p class="section-item-detail">
+										The Earth was small, light blue, and so touchingly alone, our home that must be so painful.
+									</p>
+								</div> <!-- /.service-item -->
+							</div>
+							<div class="col-xs-6 col-sm-4">
+								<div class="service-item">
+									<h3 class="section-item-title">
+										best gift
+									</h3>
+									<p class="section-item-detail">
+										The Earth was small, light blue, and so touchingly alone, our home that must be so painful.
+									</p>
+								</div> <!-- /.service-item -->
+							</div>
+						</div> <!-- /.row -->
+					</div> <!-- /.col-md-6 -->
+				</div> <!-- /.row -->
+			</div> <!-- /.section-wrapper -->
+		</div> <!-- /.container -->
+	</section> <!-- /.service -->
+
+	
+<!-- Twitter Feed -->
+	<section class="twitter-feed purple">
+		<div class="container section-wrapper">
+			<div class="section-title">
+				twitter feed
+			</div> <!-- /.section-title -->
+			<div class="underline white"></div>
+			<div class="owl-carousel twitter-owl">
+				<div class="item">
+					<p class="day">12 days ago</p>
+					<p class="feed">
+						We are glad to introduce our first HTML5/CSS3 Template called “PATROS” -http://t.co/mL9rufE7h8 @designscrazed @W3layouts @freshdesignweb
+					</p>
+					<div class="options">
+						<a href="#"><span><i class="ion-reply"></i> replay</span></a>
+						<a href="#"><span><i class="ion-social-twitter"></i> retweet</span></a>
+						<a href="#"><span><i class="ion-heart"></i> favorite</span></a>
+					</div>
+				</div> <!-- /.item -->
+				<div class="item">
+					<p class="day">12 days ago</p>
+					<p class="feed">
+						We are glad to introduce our first HTML5/CSS3 Template called “PATROS” -http://t.co/mL9rufE7h8 @designscrazed @W3layouts @freshdesignweb
+					</p>
+					<div class="options">
+						<a href="#"><span><i class="ion-reply"></i> replay</span></a>
+						<a href="#"><span><i class="ion-social-twitter"></i> retweet</span></a>
+						<a href="#"><span><i class="ion-heart"></i> favorite</span></a>
+					</div>
+				</div> <!-- /.item -->
+				<div class="item">
+					<p class="day">20 days ago</p>
+					<p class="feed">
+						We are glad to introduce our first HTML5/CSS3 Template called “PATROS” -http://t.co/mL9rufE7h8 @designscrazed @W3layouts @freshdesignweb
+					</p>
+					<div class="options">
+						<a href="#"><span><i class="ion-reply"></i> replay</span></a>
+						<a href="#"><span><i class="ion-social-twitter"></i> retweet</span></a>
+						<a href="#"><span><i class="ion-heart"></i> favorite</span></a>
+					</div>
+				</div> <!-- /.item -->
+				<div class="item">
+					<p class="day">5 days ago</p>
+					<p class="feed">
+						We are glad to introduce our first HTML5/CSS3 Template called “PATROS” -http://t.co/mL9rufE7h8 @designscrazed @W3layouts @freshdesignweb
+					</p>
+					<div class="options">
+						<a href="#"><span><i class="ion-reply"></i> replay</span></a>
+						<a href="#"><span><i class="ion-social-twitter"></i> retweet</span></a>
+						<a href="#"><span><i class="ion-heart"></i> favorite</span></a>
+					</div>
+				</div> <!-- /.item -->
+			</div> <!-- /.owl-carousel -->
+		</div> <!-- /.container -->
+	</section> <!-- /.twitter-feed -->
+
+
+<!-- Portfolio -->
+	<section class="portfolio" id="portfolio">
+		<div class="container section-wrapper">
+			<h2 class="section-title black">
+				portfolio
+			</h2> <!-- /.section-title -->
+			<div class="underline purple"></div>
+			<div class="row">
+				<div class="col-sm-4 col-xs-6">
+					<div class="portfolio-item">
+						<div class="portfolio-img">
+							<img src="assets/images/port-1.png" alt="port-1" class="port-item">
+							<div class="portfolio-img-hover">
+								<a href="#"><img src="assets/images/plus.png" alt="plus" class="plus"></a>
+							</div> <!-- /.portfolio-img-hover -->
+						</div> <!-- /.portfolio-img -->
+						<div class="portfolio-item-details">
+							<div class="portfolio-item-name">
+								Olivera Note <br><small>Fashion</small>
+							</div> <!-- /.portfolio-item-name -->
+							<div class="port-heart">
+								<i class="ion-ios-heart-outline"></i> 564
+							</div> <!-- /.port-heart -->
+						</div> <!-- /.portfolio-item-details -->
+					</div> <!-- /.portfolio-item -->
+				</div> <!-- /.col-md-4 -->
+				<div class="col-sm-4 col-xs-6">
+					<div class="portfolio-item">
+						<div class="portfolio-img">
+							<img src="assets/images/port-2.png" alt="port-2" class="port-item">
+							<div class="portfolio-img-hover">
+								<a href="#"><img src="assets/images/plus.png" alt="plus" class="plus"></a>
+							</div> <!-- /.portfolio-img-hover -->
+						</div> <!-- /.portfolio-img -->
+						<div class="portfolio-item-details">
+							<div class="portfolio-item-name">
+								Shift Magazine <br><small>Photography</small>
+							</div> <!-- /.portfolio-item-name -->
+							<div class="port-heart">
+								<i class="ion-ios-heart-outline"></i> 564
+							</div> <!-- /.port-heart -->
+						</div> <!-- /.portfolio-item-details -->
+					</div> <!-- /.portfolio-item -->
+				</div> <!-- /.col-md-4 -->
+				<div class="col-sm-4 col-xs-6">
+					<div class="portfolio-item">
+						<div class="portfolio-img">
+							<img src="assets/images/port-3.png" alt="port-3" class="port-item">
+							<div class="portfolio-img-hover">
+								<a href="#"><img src="assets/images/plus.png" alt="plus" class="plus"></a>
+							</div> <!-- /.portfolio-img-hover -->
+						</div> <!-- /.portfolio-img -->
+						<div class="portfolio-item-details">
+							<div class="portfolio-item-name">
+								Camp Pine Tree <br><small>Web Design</small>
+							</div> <!-- /.portfolio-item-name -->
+							<div class="port-heart">
+								<i class="ion-ios-heart-outline"></i> 564
+							</div> <!-- /.port-heart -->
+						</div> <!-- /.portfolio-item-details -->
+					</div> <!-- /.portfolio-item -->
+				</div> <!-- /.col-md-4 -->
+				<div class="col-sm-4 col-xs-6">
+					<div class="portfolio-item">
+						<div class="portfolio-img">
+							<img src="assets/images/port-4.png" alt="port-4" class="port-item">
+							<div class="portfolio-img-hover">
+								<a href="#"><img src="assets/images/plus.png" alt="plus" class="plus"></a>
+							</div> <!-- /.portfolio-img-hover -->
+						</div> <!-- /.portfolio-img -->
+						<div class="portfolio-item-details">
+							<div class="portfolio-item-name">
+								Freeart App Design <br><small>Photography</small>
+							</div> <!-- /.portfolio-item-name -->
+							<div class="port-heart">
+								<i class="ion-ios-heart-outline"></i> 564
+							</div> <!-- /.port-heart -->
+						</div> <!-- /.portfolio-item-details -->
+					</div> <!-- /.portfolio-item -->
+				</div> <!-- /.col-md-4 -->
+				<div class="col-sm-4 col-xs-6">
+					<div class="portfolio-item">
+						<div class="portfolio-img">
+							<img src="assets/images/port-5.png" alt="port-5" class="port-item">
+							<div class="portfolio-img-hover">
+								<a href="#"><img src="assets/images/plus.png" alt="plus" class="plus"></a>
+							</div> <!-- /.portfolio-img-hover -->
+						</div> <!-- /.portfolio-img -->
+						<div class="portfolio-item-details">
+							<div class="portfolio-item-name">
+								Large Poster Set <br><small>Marketing</small>
+							</div> <!-- /.portfolio-item-name -->
+							<div class="port-heart">
+								<i class="ion-ios-heart-outline"></i> 564
+							</div> <!-- /.port-heart -->
+						</div> <!-- /.portfolio-item-details -->
+					</div> <!-- /.portfolio-item -->
+				</div> <!-- /.col-md-4 -->
+				<div class="col-sm-4 col-xs-6">
+					<div class="portfolio-item">
+						<div class="portfolio-img">
+							<img src="assets/images/port-6.png" alt="port-6" class="port-item">
+							<div class="portfolio-img-hover">
+								<a href="#"><img src="assets/images/plus.png" alt="plus" class="plus"></a>
+							</div> <!-- /.portfolio-img-hover -->
+						</div> <!-- /.portfolio-img -->
+						<div class="portfolio-item-details">
+							<div class="portfolio-item-name">
+								Skilet Album Cover <br><small>Business</small>
+							</div> <!-- /.portfolio-item-name -->
+							<div class="port-heart">
+								<i class="ion-ios-heart-outline"></i> 564
+							</div> <!-- /.port-heart -->
+						</div> <!-- /.portfolio-item-details -->
+					</div> <!-- /.portfolio-item -->
+				</div> <!-- /.col-md-4 -->
+			</div> <!-- /.row -->
+		</div> <!-- /.container -->
+	</section> <!-- /.portfolio -->
+
+
+<!-- Price Table -->
+	<section class="price-table">
+		<div class="container section-wrapper">
+			<h2 class="section-title black">
+				Price table
+			</h2> <!-- /.section-title -->
+			<div class="underline purple"></div>
+			<div class="row">
+				<div class="col-sm-10 col-sm-offset-1">
+
+					<div class="row">
+						<div class="col-sm-3">
+							<div class="price-title">
+								Standard <br>
+								<span>$/Month</span>
+							</div>
+							<ul class="price-list">
+								<li>5 Products</li>
+								<li>20 Pages Galleries</li>
+								<li>500 GB Bandwidth</li>
+								<li>Developer Platform</li>
+								<li>Mobile Website and Store</li>
+								<li>Custom Domain Free</li>
+								<li>24/7 Customer Support</li>
+								<li class="text-center">
+									<button class="btn btn-default custom-btn-default">
+										Get Started Now
+									</button>
+								</li>
+							</ul>
+						</div>
+
+						<div class="col-sm-3">
+							<div class="price-title">
+								Standard <br>
+								<span>$/Month</span>
+							</div>
+							<ul class="price-list">
+								<li>5 Products</li>
+								<li>20 Pages Galleries</li>
+								<li>500 GB Bandwidth</li>
+								<li>Developer Platform</li>
+								<li>Mobile Website and Store</li>
+								<li>Custom Domain Free</li>
+								<li>24/7 Customer Support</li>
+								<li class="text-center">
+									<button class="btn btn-default custom-btn-default">
+										Get Started Now
+									</button>
+								</li>
+							</ul>
+						</div>
+
+						<div class="col-sm-3">
+							<div class="price-title">
+								Standard <br>
+								<span>$/Month</span>
+							</div>
+							<ul class="price-list">
+								<li>5 Products</li>
+								<li>20 Pages Galleries</li>
+								<li>500 GB Bandwidth</li>
+								<li>Developer Platform</li>
+								<li>Mobile Website and Store</li>
+								<li>Custom Domain Free</li>
+								<li>24/7 Customer Support</li>
+								<li class="text-center">
+									<button class="btn btn-default custom-btn-default">
+										Get Started Now
+									</button>
+								</li>
+							</ul>
+						</div>
+
+						<div class="col-sm-3">
+							<div class="price-title">
+								Standard <br>
+								<span>$/Month</span>
+							</div>
+							<ul class="price-list">
+								<li>5 Products</li>
+								<li>20 Pages Galleries</li>
+								<li>500 GB Bandwidth</li>
+								<li>Developer Platform</li>
+								<li>Mobile Website and Store</li>
+								<li>Custom Domain Free</li>
+								<li>24/7 Customer Support</li>
+								<li class="text-center">
+									<button class="btn btn-default custom-btn-default">
+										Get Started Now
+									</button>
+								</li>
+							</ul>
+						</div>
+					</div> <!-- /.row -->
+
+				</div>
+			</div> <!-- /.row -->
+		</div> <!-- /.container -->
+	</section> <!-- /.price-table -->
+
+
+<!-- Testimonial -->
+	<section class="testimonial">
+		<div class="container section-wrapper">
+			<div class="section-title">
+				testmonials
+			</div> <!-- /.section-title -->
+			<div class="underline white"></div>
+			<div class="owl-carousel testimonial-owl">
+				<div class="item">
+					<p class="testimonial-detail">
+						The Department of Computer Science and Engineering, Islamic University of Technology(IUT), is one of the 
+					</p>
+					<div class="test-name">
+						<strong>Mohoshin Ahmed</strong> <br>
+						ROX THEME
+					</div>
+				</div> <!-- /.item -->
+				<div class="item">
+					<p class="testimonial-detail">
+						The Department of Computer Science and Engineering, Islamic University of Technology(IUT), is one of the 
+					</p>
+					<div class="test-name">
+						<strong>Mohoshin Ahmed</strong> <br>
+						ROX THEME
+					</div>
+				</div> <!-- /.item -->
+				<div class="item">
+					<p class="testimonial-detail">
+						The Department of Computer Science and Engineering, Islamic University of Technology(IUT), is one of the 
+					</p>
+					<div class="test-name">
+						<strong>Mohoshin Ahmed</strong> <br>
+						ROX THEME
+					</div>
+				</div> <!-- /.item -->
+			</div> <!-- /.owl-carousel -->
+		</div> <!-- /.container -->
+	</section> <!-- /.testimonial -->
+
+
+<!-- Add -->
+	<section class="section-wrapper add container">
+		<div class="owl-carousel add-owl">
+				<div class="item">
+					<img src="assets/images/add-1.png" alt="add" class="add-item">
+				</div> <!-- /.item -->
+				<div class="item">
+					<img src="assets/images/add-2.png" alt="add" class="add-item">
+				</div> <!-- /.item -->
+				<div class="item">
+					<img src="assets/images/add-3.png" alt="add" class="add-item">
+				</div> <!-- /.item -->
+				<div class="item">
+					<img src="assets/images/add-4.png" alt="add" class="add-item">
+				</div> <!-- /.item -->
+				<div class="item">
+					<img src="assets/images/add-1.png" alt="add" class="add-item">
+				</div> <!-- /.item -->
+				<div class="item">
+					<img src="assets/images/add-2.png" alt="add" class="add-item">
+				</div> <!-- /.item -->
+				<div class="item">
+					<img src="assets/images/add-3.png" alt="add" class="add-item">
+				</div> <!-- /.item -->
+				<div class="item">
+					<img src="assets/images/add-4.png" alt="add" class="add-item">
+				</div> <!-- /.item -->
+			</div> <!-- /.owl-carousel -->
+	</section>
+
+
+<!-- Contact with us -->
+	<section class="contact section-wrapper" id="contact">
+		<div class="container">
+			<div class="row">
+	            <div class="col-md-3 contact-item col-sm-6 col-xs-12">
+	                <i class="ion-location"></i>
+	                <h3>Address</h3>
+	                <p class="contact">
+	                    Hoffman Parkway, 353 <br>
+	                    Monuntain View, USA
+	                </p>
+	            </div>
+	            <div class="col-md-3 contact-item col-sm-6 col-xs-12">
+	                <i class="ion-ios-telephone"></i>
+	                <h3>Phone</h3>
+	                <p class="contact">
+	                    Local: 1-200-123-hello <br>
+	                    Mobile: 2-800-123-hello
+	                </p>
+	            </div>
+	            <div class="col-md-3 contact-item col-sm-6 col-xs-12">
+	                <i class="ion-printer"></i>
+	                <h3>Fax</h3>
+	                <p class="contact">
+	                    Office: 2148-287-8300 <br>
+	                    Home: 2528-782-8200
+	                </p>
+	            </div>
+	            <div class="col-md-3 contact-item col-sm-6 col-xs-12">
+	                <i class="ion-ios-email"></i>
+	                <h3>Email Address</h3>
+	                <p class="contact">
+	                    <a href="mailto:info@themewagon.com">info@themewagon.com</a> <br>
+	                    <a href="www.themewagon.com">www.themewagon.com</a>
+	                </p>
+	            </div>
+
+
+	        </div> <!-- /.row -->
+	        <form class="row form">
+                <h3>Leave A Message</h3>
+                <div class="col-sm-4 col-xs-12 form-group">
+                    <label class="sr-only">Name</label>
+                    <input name="name" class="form-control" type="text" placeholder="First Name">
+                </div> <!-- /.form-group -->
+                <div class="col-sm-4 col-xs-12 form-group">
+                    <label class="sr-only">Email</label>
+                    <input name="email" class="form-control" type="email" placeholder="Email address">
+                </div> <!-- /.form-group -->
+                <div class="col-sm-4 col-xs-12 form-group">
+                    <label class="sr-only">Website</label>
+                    <input name="website" class="form-control" type="text" placeholder="Your website">
+                </div> <!-- /.form-group -->
+                <div class="row">
+                    <div class="col-md-12 col-xs-12 form-group">
+                        <label class="sr-only">Message</label>
+                        <textarea class="message form-control" placeholder="Write message"></textarea>
+                    </div> <!-- /.form-group -->
+                    <input class="btn btn-sub" type="submit" value="Send Message">
+                </div>
+            </form> <!-- /.row -->
+		</div> <!-- /.container -->
+	</section> <!-- /.contact -->
 
 @endsection
