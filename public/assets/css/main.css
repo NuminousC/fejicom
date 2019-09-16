@@ -20,7 +20,7 @@ body
 	background: #4a148c;
 }
 .section-wrapper{
-	padding-top: 90px;
+	padding-top: 1.8em;
 	padding-bottom: 80px;
 }
 .section-title{
@@ -58,17 +58,18 @@ body
 	background-position: center center;
 	background-size: cover;
 	background-attachment: fixed;
-	height: 100vh;
+	height: 85vh;
 	color: #fff;
 	text-transform: uppercase;
 
 }
 			/*navbar*/
 .navbar-default .navbar-brand{
-	border: 1px solid #fff;
+	border-bottom: 1px solid #fff;
 	color: #fff;
 	font-size: 30px;
 	padding: 10px 20px;
+	margin-bottom: 2px;
 	height: auto;
 	font-weight: 200;
 	letter-spacing: 5px;
@@ -135,7 +136,7 @@ body
 	width: 100%;
 }
 .header-title{
-	font-size: 50px;
+	font-size: 40px;
 	letter-spacing: 10px;
 	font-weight: 200;
 }
@@ -151,13 +152,15 @@ body
 	position: relative;
 }
 .service .section-title{
-	margin-top: 110px;
+	margin-top: 50px;
+	margin-bottom: 70px;
 }
 .services{
 	margin-bottom: 100px;
 }
 .service .underline{
 	margin-bottom: 75px;
+	margin-top: 8px;
 }
 .service-img{
 	position: absolute;

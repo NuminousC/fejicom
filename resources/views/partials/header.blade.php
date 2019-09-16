@@ -11,15 +11,15 @@
 						<span class="icon-bar"></span>
 						<span class="icon-bar"></span>
 					</button>
-					<a class="navbar-brand" href="{{ route('welcome') }}">SIGHT</a>
+					<a class="navbar-brand" href="{{ route('welcome') }}">Fejicom</a>
 				</div> <!-- /.navbar-header -->
 
 		    <!-- Collect the nav links, forms, and other content for toggling -->
 			    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 					<ul class="nav navbar-nav navbar-right">
 						<li><a href="#header">home</a></li>
-						<li><a href="#about">about us</a></li>
 						<li><a href="#service">services</a></li>
+						<li><a href="#about">about us</a></li>
 						<li><a href="#portfolio">portfolio</a></li>
 						<li><a href="#contact">contact</a></li>
 					</ul> <!-- /.nav -->
@@ -30,10 +30,10 @@
 			<div class="header-table">
 				<div class="header-wrapper">
 					<h1 class="header-title">
-						best digital agency
+						laundry catering hiring
 					</h1>
 					<p class="header-subtitle">
-						since 2013
+						we serve you
 					</p>
 				</div> <!-- /.header-wrapper -->
 			</div>

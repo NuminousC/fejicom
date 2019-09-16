@@ -5,6 +5,88 @@
 
 @section('content')
 
+
+<!-- Our Services -->
+<section class="service" id="service">
+		<div class="container">
+			<div class="_section-wrapper">
+				<h2 class="section-title black">
+					our services
+					<div class="underline purple"></div>
+				</h2> <!-- /.section-title -->
+				
+				<div class="row">
+					<div class="">
+						<img src="assets/images/service.png" alt="service" class="service-img img-responsive">
+					</div>
+					<div class="col-md-offset-4 col-md-8 col-sm-12 services">
+						<div class="row">
+							<div class="col-xs-6 col-sm-4">
+								<div class="service-item">
+									<h3 class="section-item-title">
+										free delivery
+									</h3>
+									<p class="section-item-detail">
+										The Earth was small, light blue, and so touchingly alone, our home that must be so painful.
+									</p>
+								</div> <!-- /.service-item -->
+							</div>
+							<div class="col-xs-6 col-sm-4">
+								<div class="service-item">
+									<h3 class="section-item-title">
+										refund money
+									</h3>
+									<p class="section-item-detail">
+										The Earth was small, light blue, and so touchingly alone, our home that must be so painful.
+									</p>
+								</div> <!-- /.service-item -->
+							</div>
+							<div class="col-xs-6 col-sm-4">
+								<div class="service-item">
+									<h3 class="section-item-title">
+										24/7 support
+									</h3>
+									<p class="section-item-detail">
+										The Earth was small, light blue, and so touchingly alone, our home that must be so painful.
+									</p>
+								</div> <!-- /.service-item -->
+							</div>
+							<div class="col-xs-6 col-sm-4">
+								<div class="service-item">
+									<h3 class="section-item-title">
+										summer offer
+									</h3>
+									<p class="section-item-detail">
+										The Earth was small, light blue, and so touchingly alone, our home that must be so painful.
+									</p>
+								</div> <!-- /.service-item -->
+							</div>
+							<div class="col-xs-6 col-sm-4">
+								<div class="service-item">
+									<h3 class="section-item-title">
+										winter offer
+									</h3>
+									<p class="section-item-detail">
+										The Earth was small, light blue, and so touchingly alone, our home that must be so painful.
+									</p>
+								</div> <!-- /.service-item -->
+							</div>
+							<div class="col-xs-6 col-sm-4">
+								<div class="service-item">
+									<h3 class="section-item-title">
+										best gift
+									</h3>
+									<p class="section-item-detail">
+										The Earth was small, light blue, and so touchingly alone, our home that must be so painful.
+									</p>
+								</div> <!-- /.service-item -->
+							</div>
+						</div> <!-- /.row -->
+					</div> <!-- /.col-md-6 -->
+				</div> <!-- /.row -->
+			</div> <!-- /.section-wrapper -->
+		</div> <!-- /.container -->
+	</section> <!-- /.service -->
 <!-- About Us -->
 <section class="about" id="about">
 		<div class="container section-wrapper">
@@ -22,7 +104,7 @@
 
 				<div class="col-md-6 col-sm-12">
 					<p class="about-detail">
-						The Earth was small, light blue, and so touchingly alone, our home that must be defended like a holy relic. The Earth was absolutely round. I believe I never knew what  saw for the first time how beautiful our planet is. Mankind, let us preserve and increase this beauty, and not destroy it!Houston.landed.We are all connected; To each other, biologically. To the earth, chemically. To the rest of the universe atomically. The Earth was absolutely round. I believe I never knew what  saw for the first time how beautiful our planet is. 
+						 FEJICOM NIG LTD was founded in 2008, but was officially registered as a limited liability company in 2017. FEJICOM started its celebrated journey with the introduction of laundry and housekeeping services, which since then have become and indispensible part of the hospitality industry in this region. In addition to our services, we have a knack for creating unique concepts that add value to the society. The following are some components of our core values.
 					</p> <!-- /.about-detail -->
 				</div> <!-- /.col-md-6 -->
 
@@ -32,7 +114,7 @@
 			
 				<div class="col-sm-4">
 					<h3 class="section-item-title">
-						we care
+						Excellence
 					</h3>
 					<p class="section-item-detail">
 						The Earth was small, light blue, and so touchingly alone, our home that must be defended like a holy relic. The Earth was absolutely round.
@@ -40,7 +122,7 @@
 				</div>
 				<div class="col-sm-4">
 					<h3 class="section-item-title">
-						we deliver
+						Customer Focus
 					</h3>
 					<p class="section-item-detail">
 						The Earth was small, light blue, and so touchingly alone, our home that must be defended like a holy relic. The Earth was absolutely round.
@@ -48,7 +130,7 @@
 				</div>
 				<div class="col-sm-4">
 					<h3 class="section-item-title">
-						we're creative
+						Innovation
 					</h3>
 					<p class="section-item-detail">
 						The Earth was small, light blue, and so touchingly alone, our home that must be defended like a holy relic. The Earth was absolutely round.
@@ -64,7 +146,7 @@
 	<section class="team">
 		<div class="container section-wrapper">
 			<h2 class="section-title black">
-				our team
+				our policies
 			</h2> <!-- /.section-title -->
 			<div class="underline purple"></div>
 			<div class="row">
@@ -172,141 +254,9 @@
 			<div class="quoter">Steve Jobs</div>
 		</div> <!-- /.container -->
 	</section> <!-- /.note -->
-	
-
-<!-- Fan Facts -->
-	<section class="fun">
-		<div class="container section-wrapper">
-		<h2 class="section-title black">
-				Fun Facts
-			</h2> <!-- /.section-title -->
-			<div class="underline purple"></div>	
-			<div class="row">
-				<div class="col-sm-3 col-xs-6">
-					<div class="fun-box">
-						<div class="number">
-							1956628
-						</div>
-						<div class="number-title">
-							lines of code
-						</div>
-					</div> <!-- /.fun-box -->
-				</div> <!-- /.col-md-3 -->
-				<div class="col-sm-3 col-xs-6">
-					<div class="fun-box">
-						<div class="number">
-							1473
-						</div>
-						<div class="number-title">
-							cups of coffee
-						</div>
-					</div> <!-- /.fun-box -->
-				</div> <!-- /.col-md-3 -->
-				<div class="col-sm-3 col-xs-6">
-					<div class="fun-box">
-						<div class="number">
-							500
-						</div>
-						<div class="number-title">
-							projects delivered
-						</div>
-					</div> <!-- /.fun-box -->
-				</div> <!-- /.col-md-3 -->
-				<div class="col-sm-3 col-xs-6">
-					<div class="fun-box">
-						<div class="number">
-							101
-						</div>
-						<div class="number-title">
-							satisfied clients
-						</div>
-					</div> <!-- /.fun-box -->
-				</div> <!-- /.col-md-3 -->
-			</div> <!-- /.row -->
-		</div> <!-- /.container -->
-	</section> <!-- /.fun -->
 
 
-<!-- Our Services -->
-	<section class="service" id="service">
-		<div class="container">
-			<div class="_section-wrapper">
-				<h2 class="section-title black">
-					our services
-				</h2> <!-- /.section-title -->
-				<div class="underline purple"></div>
-				<div class="row">
-					<div class="">
-						<img src="assets/images/service.png" alt="service" class="service-img img-responsive">
-					</div>
-					<div class="col-md-offset-4 col-md-8 col-sm-12 services">
-						<div class="row">
-							<div class="col-xs-6 col-sm-4">
-								<div class="service-item">
-									<h3 class="section-item-title">
-										free delivery
-									</h3>
-									<p class="section-item-detail">
-										The Earth was small, light blue, and so touchingly alone, our home that must be so painful.
-									</p>
-								</div> <!-- /.service-item -->
-							</div>
-							<div class="col-xs-6 col-sm-4">
-								<div class="service-item">
-									<h3 class="section-item-title">
-										refund money
-									</h3>
-									<p class="section-item-detail">
-										The Earth was small, light blue, and so touchingly alone, our home that must be so painful.
-									</p>
-								</div> <!-- /.service-item -->
-							</div>
-							<div class="col-xs-6 col-sm-4">
-								<div class="service-item">
-									<h3 class="section-item-title">
-										24/7 support
-									</h3>
-									<p class="section-item-detail">
-										The Earth was small, light blue, and so touchingly alone, our home that must be so painful.
-									</p>
-								</div> <!-- /.service-item -->
-							</div>
-							<div class="col-xs-6 col-sm-4">
-								<div class="service-item">
-									<h3 class="section-item-title">
-										summer offer
-									</h3>
-									<p class="section-item-detail">
-										The Earth was small, light blue, and so touchingly alone, our home that must be so painful.
-									</p>
-								</div> <!-- /.service-item -->
-							</div>
-							<div class="col-xs-6 col-sm-4">
-								<div class="service-item">
-									<h3 class="section-item-title">
-										winter offer
-									</h3>
-									<p class="section-item-detail">
-										The Earth was small, light blue, and so touchingly alone, our home that must be so painful.
-									</p>
-								</div> <!-- /.service-item -->
-							</div>
-							<div class="col-xs-6 col-sm-4">
-								<div class="service-item">
-									<h3 class="section-item-title">
-										best gift
-									</h3>
-									<p class="section-item-detail">
-										The Earth was small, light blue, and so touchingly alone, our home that must be so painful.
-									</p>
-								</div> <!-- /.service-item -->
-							</div>
-						</div> <!-- /.row -->
-					</div> <!-- /.col-md-6 -->
-				</div> <!-- /.row -->
-			</div> <!-- /.section-wrapper -->
-		</div> <!-- /.container -->
-	</section> <!-- /.service -->
+
 
 	
 <!-- Twitter Feed -->
