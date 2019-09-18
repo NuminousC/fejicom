@@ -24,60 +24,60 @@
 							<div class="col-xs-6 col-sm-4">
 								<div class="service-item">
 									<h3 class="section-item-title">
-										free delivery
+										laundry
 									</h3>
 									<p class="section-item-detail">
-										The Earth was small, light blue, and so touchingly alone, our home that must be so painful.
+										We provide robust laundry services. This service is available to every field of business.
 									</p>
 								</div> <!-- /.service-item -->
 							</div>
 							<div class="col-xs-6 col-sm-4">
 								<div class="service-item">
 									<h3 class="section-item-title">
-										refund money
+										housekeeping
 									</h3>
 									<p class="section-item-detail">
-										The Earth was small, light blue, and so touchingly alone, our home that must be so painful.
+										Don't bother budgeting a weekend to keep your home in order; just leave it to us.
 									</p>
 								</div> <!-- /.service-item -->
 							</div>
 							<div class="col-xs-6 col-sm-4">
 								<div class="service-item">
 									<h3 class="section-item-title">
-										24/7 support
+										Catering
 									</h3>
 									<p class="section-item-detail">
-										The Earth was small, light blue, and so touchingly alone, our home that must be so painful.
+										It doesn't matter the number of people, location or cuisine, our catering service got you covered.
 									</p>
 								</div> <!-- /.service-item -->
 							</div>
 							<div class="col-xs-6 col-sm-4">
 								<div class="service-item">
 									<h3 class="section-item-title">
-										summer offer
+										hiring
 									</h3>
 									<p class="section-item-detail">
-										The Earth was small, light blue, and so touchingly alone, our home that must be so painful.
+										Tell us what you want to hire and we'll help you get it. We'll also deliver it to your location.
 									</p>
 								</div> <!-- /.service-item -->
 							</div>
 							<div class="col-xs-6 col-sm-4">
 								<div class="service-item">
 									<h3 class="section-item-title">
-										winter offer
+										construction
 									</h3>
 									<p class="section-item-detail">
-										The Earth was small, light blue, and so touchingly alone, our home that must be so painful.
+										We also handle construction jobs on shore and offshore.
 									</p>
 								</div> <!-- /.service-item -->
 							</div>
 							<div class="col-xs-6 col-sm-4">
 								<div class="service-item">
 									<h3 class="section-item-title">
-										best gift
+										general
 									</h3>
 									<p class="section-item-detail">
-										The Earth was small, light blue, and so touchingly alone, our home that must be so painful.
+										You can consult us for most engineering services. You provide solutions consistently.
 									</p>
 								</div> <!-- /.service-item -->
 							</div>

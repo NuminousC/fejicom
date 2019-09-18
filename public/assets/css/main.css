@@ -41,7 +41,8 @@ body
     font-weight: 300;
     margin-bottom: 50px;
     color: #999;
-    letter-spacing: .39px;
+	letter-spacing: .39px;
+	text-align: justify;
 }
 .underline{
 	height: 2px;
